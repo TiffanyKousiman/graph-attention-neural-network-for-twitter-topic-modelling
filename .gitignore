@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# not disclosing model_input_data and raw dataset for privacy reasons
+model_input_data
+tweet_relevance_annotation
+Datasets
+Eng2013_*
+
+# DS store
+.DS_Store
