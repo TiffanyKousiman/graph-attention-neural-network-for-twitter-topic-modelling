@@ -86,7 +86,7 @@ python main.py  --learning_rate         # default: 0.0025
 
 ## Data
 
-The raw and preprocessed datasets used for this research study are not publicised for privacy reasons.
+The raw and preprocessed datasets utilized in this research study are not publicly disclosed due to privacy concerns.
 
 ## Output
 
