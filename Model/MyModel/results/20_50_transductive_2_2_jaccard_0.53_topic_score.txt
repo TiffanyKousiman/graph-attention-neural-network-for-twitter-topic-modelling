@@ -1,0 +1,25 @@
+Topic 0:0.22
+Topic 1:0.35
+Topic 2:0.17
+Topic 3:0.22
+Topic 4:0.15
+Topic 5:0.06
+Topic 6:0.12
+Topic 7:-0.01
+Topic 8:0.21
+Topic 9:0.18
+Topic 10:0.23
+Topic 11:0.13
+Topic 12:0.01
+Topic 13:0.09
+Topic 14:-0.01
+Topic 15:0.12
+Topic 16:0.08
+Topic 17:-0.02
+Topic 18:0.11
+Topic 19:-0.02
+
+==================================================
+Total Topic Coherence Score: 2.39
+Average Topic Coherence Score: 0.12
+Median Topic Coherence Score: 0.12

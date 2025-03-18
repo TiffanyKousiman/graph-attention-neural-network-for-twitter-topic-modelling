@@ -1,0 +1,48 @@
+Preparing data...
+Initializing model...
+******************************************************
+#documents: 2736
+#tokens: 7821
+learning rate: 0.0025
+training ratio: 1
+minibatch size: 128
+#epoch: 50
+#topics: 20
+transductive or inductive learning: transductive
+#hop diffusion: 2
+degree: 2
+doc similarity metric: cosine_tfidf
+adjacency matrix cut-off value: 0.0
+******************************************************
+Start training...
+Preparing data...
+Initializing model...
+******************************************************
+#documents: 2736
+#tokens: 7821
+learning rate: 0.0025
+training ratio: 1
+minibatch size: 128
+#epoch: 50
+#topics: 20
+transductive or inductive learning: transductive
+#hop diffusion: 2
+degree: 2
+doc similarity metric: cosine_tfidf
+adjacency matrix cut-off value: 0.0
+******************************************************
+Start training...
+******************************************************
+Time: 38s 	Epoch: 1/50 	Loss: 5.666698 	dv_Loss: 2.369708 	dd_Loss: 1.319773 	vv_Loss: 1.977217
+******************************************************
+Time: 146s 	Epoch: 20/50 	Loss: 2.878091 	dv_Loss: 0.134258 	dd_Loss: 1.150393 	vv_Loss: 1.593440
+******************************************************
+Time: 266s 	Epoch: 40/50 	Loss: 2.202069 	dv_Loss: 0.031271 	dd_Loss: 0.918385 	vv_Loss: 1.252414
+Finish training! Training time: 326.702410697937
+Finish saving embeddings!
+Visualising results...
+Saved topic keywords!
+Saved TSNE document embeddings!
+Saved word-topic matrix heatmap!
+Saved doc-topic matrix heatmap!
+Saved topic coherence score!

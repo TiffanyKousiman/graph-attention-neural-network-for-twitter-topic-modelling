@@ -1,0 +1,69 @@
+Shape of doc-doc similarity matrix:  (2736, 2736)
+Shape of term document matrix:  (7821, 2736)
+******************************************************
+#documents: 2736
+#tokens: 7821
+max number of iterations: 500
+#topics: 20
+alpha: 1
+stop criterion: 0.1
+******************************************************
+loop begin
+loop begin
+Step=0, Loss=22249.58032169981, Time=4.22326397895813s
+Step=1, Loss=20536.083054007224, Time=8.96428370475769s
+Step=2, Loss=19156.916852631828, Time=13.346546649932861s
+Step=3, Loss=17974.363344606943, Time=17.46488094329834s
+Step=4, Loss=17213.770662567844, Time=21.905120134353638s
+Step=5, Loss=16796.38062180872, Time=25.668097257614136s
+Step=6, Loss=16532.99028709027, Time=31.264586925506592s
+Step=7, Loss=16373.590163291508, Time=36.47392225265503s
+Step=8, Loss=16302.395016559374, Time=37.93297743797302s
+Step=9, Loss=16261.950604358812, Time=45.83202767372131s
+Step=10, Loss=16236.126884687925, Time=50.97583603858948s
+Step=11, Loss=16219.81516663185, Time=56.56638741493225s
+Step=12, Loss=16207.071236669819, Time=59.47779107093811s
+Step=13, Loss=16197.134022896968, Time=65.00454759597778s
+Step=14, Loss=16189.76997474248, Time=71.04604005813599s
+Step=15, Loss=16184.318020867655, Time=78.01527070999146s
+Step=16, Loss=16180.870968336767, Time=83.66373038291931s
+Step=17, Loss=16178.281230606544, Time=90.02172541618347s
+Step=18, Loss=16176.203507473365, Time=95.90426397323608s
+Step=19, Loss=16174.651328808077, Time=102.36373019218445s
+Step=20, Loss=16173.454757949967, Time=107.84106135368347s
+Step=21, Loss=16172.665207241813, Time=114.2257194519043s
+Step=22, Loss=16172.21748002192, Time=119.25987076759338s
+Step=23, Loss=16172.06610532204, Time=126.4060001373291s
+Saved topic keywords!
+Saved TSNE document embeddings!
+Saved word-topic matrix heatmap!
+Saved doc-topic matrix heatmap!
+Shape of doc-doc similarity matrix:  (2736, 2736)
+Shape of term document matrix:  (7821, 2736)
+******************************************************
+#documents: 2736
+#tokens: 7821
+max number of iterations: 500
+#topics: 20
+alpha: 1
+stop criterion: 0.1
+******************************************************
+Saved topic keywords!
+Saved TSNE document embeddings!
+Saved word-topic matrix heatmap!
+Saved doc-topic matrix heatmap!
+Saved topic keywords!
+Saved TSNE document embeddings!
+Saved word-topic matrix heatmap!
+Saved doc-topic matrix heatmap!
+Saved topic coherence score!
+Saved topic keywords!
+Saved TSNE document embeddings!
+Saved word-topic matrix heatmap!
+Saved doc-topic matrix heatmap!
+Saved topic coherence score!
+Saved topic keywords!
+Saved TSNE document embeddings!
+Saved word-topic matrix heatmap!
+Saved doc-topic matrix heatmap!
+Saved topic coherence score!

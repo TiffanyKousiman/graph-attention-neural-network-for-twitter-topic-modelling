@@ -1,0 +1,31 @@
+Preparing data...
+Initializing model...
+******************************************************
+#documents: 2736
+#tokens: 7821
+learning rate: 0.0025
+training ratio: 1
+minibatch size: 128
+#epoch: 50
+#topics: 20
+transductive or inductive learning: transductive
+#hop diffusion: 2
+degree: 2
+doc similarity metric: cosine_count
+adjacency matrix cut-off value: 0.53
+******************************************************
+Start training...
+******************************************************
+Time: 36s 	Epoch: 1/50 	Loss: 5.581447 	dv_Loss: 2.305317 	dd_Loss: 1.297825 	vv_Loss: 1.978306
+******************************************************
+Time: 136s 	Epoch: 20/50 	Loss: 2.939972 	dv_Loss: 0.146928 	dd_Loss: 1.195592 	vv_Loss: 1.597452
+******************************************************
+Time: 241s 	Epoch: 40/50 	Loss: 2.327956 	dv_Loss: 0.035981 	dd_Loss: 1.035846 	vv_Loss: 1.256129
+Finish training! Training time: 294.8901569843292
+Finish saving embeddings!
+Visualising results...
+Saved topic keywords!
+Saved TSNE document embeddings!
+Saved word-topic matrix heatmap!
+Saved doc-topic matrix heatmap!
+Saved topic coherence score!

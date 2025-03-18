@@ -1,0 +1,21 @@
+Shape of doc-doc similarity matrix:  (2736, 2736)
+Shape of term document matrix:  (7821, 2736)
+******************************************************
+#documents: 2736
+#tokens: 7821
+max number of iterations: 500
+#topics: 32
+alpha: 1
+stop criterion: 0.1
+******************************************************
+loop begin
+loop begin
+Step=0, Loss=22027.999448546452, Time=0.436525821685791s
+Step=1, Loss=20196.01666456775, Time=0.8478894233703613s
+Step=2, Loss=18327.03457837425, Time=1.259352207183838s
+Step=3, Loss=17337.9124773518, Time=1.6553940773010254s
+Step=4, Loss=16817.427614394306, Time=2.061591386795044s
+Step=5, Loss=16602.801568087576, Time=2.4670917987823486s
+Step=6, Loss=16543.98152417619, Time=2.884153127670288s
+Saved topic keywords!
+Saved TSNE document embeddings!

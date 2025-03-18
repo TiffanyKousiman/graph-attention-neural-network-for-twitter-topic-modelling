@@ -1,0 +1,40 @@
+Shape of doc-doc similarity matrix:  (1163, 1163)
+Shape of term document matrix:  (3008, 1163)
+******************************************************
+#documents: 1163
+#tokens: 3008
+max number of iterations: 500
+#topics: 8
+alpha: 1
+stop criterion: 0.1
+******************************************************
+loop begin
+loop begin
+Step=0, Loss=6418.950519263462, Time=0.056871652603149414s
+Step=1, Loss=6146.835912972723, Time=0.12685418128967285s
+Step=2, Loss=5821.270693115701, Time=0.18081092834472656s
+Step=3, Loss=5588.187317087091, Time=0.25087761878967285s
+Step=4, Loss=5452.038727674222, Time=0.31624674797058105s
+Step=5, Loss=5344.573073223187, Time=0.38500261306762695s
+Step=6, Loss=5267.377934224061, Time=0.44093847274780273s
+Step=7, Loss=5220.312223240392, Time=0.49999213218688965s
+Step=8, Loss=5195.832796264068, Time=0.5565860271453857s
+Step=9, Loss=5179.733534276644, Time=0.6171503067016602s
+Step=10, Loss=5163.568547842062, Time=0.6699001789093018s
+Step=11, Loss=5144.53738099566, Time=0.723334789276123s
+Step=12, Loss=5122.194152542164, Time=0.7820851802825928s
+Step=13, Loss=5103.117042050737, Time=0.8310418128967285s
+Step=14, Loss=5091.900010770289, Time=0.8850505352020264s
+Step=15, Loss=5086.252398241336, Time=0.9313666820526123s
+Step=16, Loss=5083.262761670852, Time=0.9853174686431885s
+Step=17, Loss=5081.6858159511, Time=1.0311250686645508s
+Step=18, Loss=5080.786226736679, Time=1.091397762298584s
+Step=19, Loss=5080.26491200694, Time=1.152198076248169s
+Step=20, Loss=5079.941368234988, Time=1.2260828018188477s
+Step=21, Loss=5079.7340275494125, Time=1.3165216445922852s
+Step=22, Loss=5079.598851878275, Time=1.4045636653900146s
+Saved topic keywords!
+Saved TSNE document embeddings!
+Saved word-topic matrix heatmap!
+Saved doc-topic matrix heatmap!
+Saved topic coherence score!
